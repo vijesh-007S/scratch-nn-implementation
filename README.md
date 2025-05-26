@@ -18,8 +18,6 @@ Basic loss functions (e.g., MSE)
 
 Step-by-step training using backpropagation
 
-Easy to extend and experiment with
-
 📚 Educational Goals
 
 This repository is ideal for:
